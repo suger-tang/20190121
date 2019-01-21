@@ -14,6 +14,6 @@
   第一版：http://product.intools.cn/web/Mini_Program_V2.8_Homepage/#g=1&p=%E6%97%A0%E6%8A
 
 %A5%E5%90%8D%E8%AF%BE%E7%A8%8B  
-      第二版：http://product.intools.cn/web/Mini_Program_V2.16_Homepage/#g=1&p=
+  第二版：http://product.intools.cn/web/Mini_Program_V2.16_Homepage/#g=1&p=
 
-%E7%94%A8%E6%88%B7%E6%8E%A8%E8%8D%90  
+%E7%94%A8%E6%88%B7%E6%8E%A8%E8%8D%90 
